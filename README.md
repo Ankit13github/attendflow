@@ -1,6 +1,6 @@
 # 🚀 Attend Flow — AI-Based Attendance System
 
-🚀[![Live Demo](https://img.shields.io/badge/Attend%20Flow-Live%20Demo-5865F2?style=for-the-badge)](https://attend-flow.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Attend%20Flow-Live%20Demo-5865F2?style=for-the-badge)](https://attend-flow.streamlit.app)
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
