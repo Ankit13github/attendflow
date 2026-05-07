@@ -1,21 +1,18 @@
 supabase==1.0.3
 streamlit
+
 # Utilitites 
-# numpy
-# pandas
+numpy
+pandas
 
 # FACE RECOGNITION
-#scikit-learn
-#dlib
-#setuptools<70.0.0
-#git+https://github.com/ageitgey/face_recognition_models
+scikit-learn
+dlib
+setuptools<70.0.0
+git+https://github.com/ageitgey/face_recognition_models
 
-
-
-#bcrypt
-
-#segno
-#pillow
-
-#librosa
-#resemblyzer
+bcrypt
+segno
+pillow
+librosa
+resemblyzer
