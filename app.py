@@ -7,12 +7,6 @@ from src.screens.student_screen import student_screen
 
 from src.components.dialog_auto_enroll import auto_enroll_dialog
 
-import sys
-import os
-sys.path.append(os.path.abspath("."))
-
-import supabase
-import pkgutil
 
 modules = [p.name for p in pkgutil.iter_modules()]
 st.write("supabase exists:", "supabase" in modules)
