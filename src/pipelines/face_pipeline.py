@@ -1,9 +1,9 @@
 
 
-import dlib  # type: ignore
+#import dlib  # type: ignore
 import numpy as np
-import face_recognition_models
-from sklearn.svm import SVC
+#import face_recognition_models
+#from sklearn.svm import SVC
 import streamlit as st
 from typing import List, Dict, Any
 
