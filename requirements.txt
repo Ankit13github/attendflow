@@ -6,11 +6,12 @@ pandas
 pillow
 
 opencv-python-headless
-face-recognition-binary
-scikit-learn
+#face-recognition-binary
+#scikit-learn
 
-librosa
-resemblyzer
+#librosa
+#resemblyzer
+#dlib
 
 bcrypt
 segno
