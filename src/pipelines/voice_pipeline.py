@@ -1,7 +1,7 @@
-from resemblyzer import VoiceEncoder, preprocess_wav
+#from resemblyzer import VoiceEncoder, preprocess_wav
 import numpy as np
 import io
-import librosa
+#import librosa
 import streamlit as st
 
 
