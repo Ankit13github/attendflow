@@ -1,5 +1,6 @@
 streamlit
 supabase==2.4.0
+httpx==0.24.1
 
 numpy
 pandas
