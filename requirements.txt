@@ -1,6 +1,7 @@
 streamlit
 supabase==2.4.0
 httpx==0.24.1
+httpcore==0.17.3
 
 numpy
 pandas
